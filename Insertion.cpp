@@ -1,3 +1,5 @@
+//Time complexity: O(word.size())
+//Space complexity: O(word.size() * No. of nodes in trie)
 #include <iostream>
 using namespace std;
 class TrieNode{
